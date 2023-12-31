@@ -7,9 +7,9 @@ http://localhost:8080/Probando-jax-rs/url/p/id muestra el producto (metodo get)
 
 Se requierede un software tipo postman para enviar datos...
 
-http://localhost:8080/Probando-jax-rs/url/p (metodo post) mas un json del tipo ```{ "nombre":"kesito--","id": "99" }```para cargar un producto.
+http://localhost:8080/Probando-jax-rs/url/p (metodo post) mas un json del tipo ```{ "nombre":"agua","id": "99" }```para cargar un producto.
 
-http://localhost:8080/Probando-jax-rs/url/p/id (metodo put) mas un json del tipo ```{ "nombre":"kesito--", "id": "99" }``` para actualizar la informacion en el producto con identificador id (el de la url)
+http://localhost:8080/Probando-jax-rs/url/p/id (metodo put) mas un json del tipo ```{ "nombre":"agua", "id": "99" }``` para actualizar la informacion en el producto con identificador id (el de la url)
 
 
 
